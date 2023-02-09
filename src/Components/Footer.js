@@ -6,8 +6,8 @@ import openseaSVG from '../Images/opensea.svg';
 const Image = styled.img`
   width: 94px;
   height: 92px;
-//   margin: 0 40px 20px;
-//   margin-right: 10px;
+    //   margin: 0 40px 20px;
+    //   margin-right: 10px;
   // make it close the right
     margin-left: auto;
 `
